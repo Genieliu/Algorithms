@@ -2,6 +2,7 @@
 using namespace std;
 void Merge(int* A,int,int,int);
 void MergeSort(int* A,int p,int r);
+
 int main()
 {
     int len;
